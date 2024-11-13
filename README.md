@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvedora Full com cloud AWS<br>📚 Atualmente estou aprendendo Java<br>🎯 Goals: Solucionar desafios <br>🎲 Fun fact: Apaixonada por tecnologia, artes e esportes.</p>
+<p align="left">✨ Desenvolvedora Full com cloud AWS<br>📚 Atualmente estou aprendendo Python<br>🎯 Goals: Solucionar desafios <br>🎲 Fun fact: Apaixonada por tecnologia, artes e esportes.</p>
 
 ###
 
