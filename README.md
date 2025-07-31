@@ -26,38 +26,36 @@
 
 ###
 
+<p align="left">
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.9d36000f2d7bcbf90f2dbf7f57a9012f89bd5b36.png" height="70" alt="AWS SAA" />
+  <img width="8" />
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_512x512.7e5b8f4d132a5e1d0c7a0d263d8e2079c60f826a.png" height="70" alt="AWS Cloud Practitioner" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS RDS" />
+  <img src="https://img.shields.io/badge/AWS%20VPC-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS VPC" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/S3-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFormation" />
+</p>
 <div align="left">
-  <!-- Frontend -->
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-
-  <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img width="12" />
+  <img width="10" />
 
   <!-- DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
 </div>
-###
+
