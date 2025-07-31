@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Maria Clara</p>
+<p align="left">My name is Maria Clara</p>
 
 ###
 
@@ -10,11 +10,20 @@
 
 ###
 
-<p align="left">✨ Desenvolvedora Full com cloud AWS<br>📚 Atualmente estou aprendendo Python<br>🎯 Goals: Solucionar desafios <br>🎲 Fun fact: Apaixonada por tecnologia, artes e esportes.</p>
+<p align="left">
+✨ Cloud Architect specialized in AWS<br>
+📜 Certified AWS Solutions Architect – Associate & Cloud Practitioner<br>
+🚀 Currently pursuing my third AWS certification<br>
+☁️ Hands-on experience with services like RDS, VPC, S3, EC2, ELB, Auto Scaling, and more<br>
+🎯 Passionate about building scalable, secure, and automated cloud solutions<br>
+🧠 Always learning — currently diving deeper into Python and automation<br>
+🎨 Fun fact: I'm deeply in love with technology, arts, and sports.
+</p>
 
 ###
 
 <h2 align="left">I code with</h2>
+
 
 ###
 
