@@ -56,6 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://s3.us-west-2.amazonaws.com/content.podia.com/8jo3atdj7sj3s641ee9r03cv152u" height="40" alt="AWS" />
 </div>
 
