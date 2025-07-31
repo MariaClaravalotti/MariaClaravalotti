@@ -27,9 +27,9 @@
 ###
 
 <p align="left">
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.9d36000f2d7bcbf90f2dbf7f57a9012f89bd5b36.png" height="70" alt="AWS SAA" />
+  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1641170563/image8965422010918071331.png" height="70" alt="AWS SAA" />
   <img width="8" />
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_512x512.7e5b8f4d132a5e1d0c7a0d263d8e2079c60f826a.png" height="70" alt="AWS Cloud Practitioner" />
+  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1836431138/image771495085737125892.png"70" alt="AWS Cloud Practitioner" />
 </p>
 
 <p align="left">
