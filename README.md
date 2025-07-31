@@ -29,7 +29,7 @@
 <p align="left">
   <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1641170563/image8965422010918071331.png" height="70" alt="AWS SAA" />
   <img width="8" />
-  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1836431138/image771495085737125892.png"70" alt="AWS Cloud Practitioner" />
+  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1836431138/image771495085737125892.png" height="70" alt="AWS Cloud Practitioner" />
 </p>
 
 <p align="left">
