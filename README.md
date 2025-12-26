@@ -13,10 +13,15 @@
 <p align="left">
   
 ✨ AWS Cloud Architect | Database Architecture Focus (Oracle SQL & Amazon RDS)
+
 📜 AWS Certified Solutions Architect – Associate | Cloud Practitioner
+
 🧠 Python & automation
+
 ☁️ Hands-on experience designing and operating AWS environments (RDS, VPC, EC2, S3, ELB, Auto Scaling)
+
 🎯 Focused on scalable, secure, and highly available cloud & database solutions
+
 🎨 Tech • Arts • Sports
 </p>
 
