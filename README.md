@@ -11,13 +11,11 @@
 ###
 
 <p align="left">
-✨ Cloud Architect specialized in AWS<br>
-📜 Certified AWS Solutions Architect – Associate & Cloud Practitioner<br>
-🚀 Currently pursuing my third AWS certification<br>
-☁️ Hands-on experience with services like RDS, VPC, S3, EC2, ELB, Auto Scaling, and more<br>
-🎯 Passionate about building scalable, secure, and automated cloud solutions<br>
-🧠 Always learning — currently diving deeper into Python and automation<br>
-🎨 Fun fact: I'm deeply in love with technology, arts, and sports.
+📜 AWS Certified (SAA • CP)
+🚀 Pursuing 3rd AWS certification
+☁️ Scalable & secure cloud solutions
+🧠 Python & automation
+🎨 Tech • Arts • Sports
 </p>
 
 ###
