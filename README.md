@@ -58,7 +58,7 @@
   <!-- DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
   <img width="10" />
-  <img width="10" height="40" alt="image" src="https://github.com/user-attachments/assets/ebff8d4d-477e-4945-ad49-218c67f1fed5" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ebff8d4d-477e-4945-ad49-218c67f1fed5" />
 
 
   <!-- AWS -->
